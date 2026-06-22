@@ -30,8 +30,8 @@
 
 # 演示视频：
     - 小对比一下，当然了,向大佬学习，站在巨人的肩膀上
-    - [Mesh_Labeler](https://github.com/Tai-Hsien/Mesh_Labeler)
-    -![mp4:](./软件演示.mp4)
+[Mesh_Labeler](https://github.com/Tai-Hsien/Mesh_Labeler)
+    [mp4:](./软件演示.mp4)
 
 ## 备注: demo 演示视频 可以下载 查看 
 
